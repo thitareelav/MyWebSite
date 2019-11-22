@@ -1,0 +1,8 @@
+{
+    "name": "testProject",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "angy_",
+    "contributors": [],
+    "dependencies": {}
+}
